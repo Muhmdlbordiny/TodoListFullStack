@@ -1,5 +1,6 @@
 App TodoList Follow Onion Architecture TodoServiceLayer , TodoCoreLayer,TodoApiLayer,TodoRepositoryLayer
 used Tech: C# EntityFrameworkCore RestfulApi ,Html , Bootstrap , javascript
+ToolsApi : Test Api On Swagger & PostMan
 CleanCode ,AutoMapper, Scalability, Maintain ,Optmized Performance ,Execution CRUD Operation 
 Cache AutoMapper configuration to avoid repeated initialization.
 Use asynchronous database operations consistently
